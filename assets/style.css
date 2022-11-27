@@ -1,8 +1,8 @@
 :root {
-  --black: #ffffffe6;
+  --black: #202020;
   --black-2: #171717;
-  --white: #3c3c3c;
-  --gray:  #282828;
+  --white: #FFFFFF;
+  --gray: #EDF0F4;
   --gray-2: #F5F5F5;
   --gray-3: #CCCCCC;
   --blue: #0071FE;
@@ -32,7 +32,7 @@
 
 body {
     background-color: var(--gray);
-    color: #ffffff;
+    color: #d38612;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 0;
     border: 0;
@@ -44,7 +44,7 @@ body {
   letter-spacing: 0px;
   text-align: center;
   color: #fff;
-  background-image: -webkit-linear-gradient(92deg, #7a7772, #ffffff);
+  background-image: -webkit-linear-gradient(92deg, #e59410, #ffa81b);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-animation: hue 3s infinite linear;
@@ -140,8 +140,8 @@ body {
 }
 
 .img {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     border-radius: 15px;
 }
 
