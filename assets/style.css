@@ -44,7 +44,7 @@ body {
   letter-spacing: 0px;
   text-align: center;
   color: #fff;
-  background-image: -webkit-linear-gradient(92deg, #202020, #202020);
+  background-image: -webkit-linear-gradient(92deg, #e59410, #ffa81b);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-animation: hue 3s infinite linear;
